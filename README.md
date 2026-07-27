@@ -78,48 +78,6 @@ Student-Fatigue-Monitor/
 └── haarcascade_eye.xml        # Eye detection model
 ```
 
----
-
-# ⚙️ Installation
-
-## 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/student-fatigue-monitor.git
-```
-
-## 2️⃣ Navigate to the Project Directory
-
-```bash
-cd student-fatigue-monitor
-```
-
-## 3️⃣ Install Dependencies
-
-```bash
-pip install opencv-python
-```
-
----
-
-# ▶️ Running the Application
-
-Execute the following command:
-
-```bash
-python fatigue_detector.py
-```
-
-The webcam will automatically open and begin monitoring.
-
-To exit the application:
-
-```
-Press Q
-```
-
----
-
 # 🧠 How It Works
 
 ```text
