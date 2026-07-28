@@ -2,7 +2,7 @@ import cv2
 import time
 import threading
 import winsound
-
+print(cv2.__version__)
 # ---------- SOUND ALERT ----------
 def alert_sound():
     winsound.Beep(1200, 700)   # frequency, duration(ms)
